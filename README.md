@@ -1,2 +1,2 @@
 # VowelCounter
-Assignment 1 of CSCI1102 in Java
+A program that counts the vowels of each word entered.
